@@ -1,1 +1,1 @@
-All notebooks in Scipy folder
+All notebooks in Scipy folder.
